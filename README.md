@@ -4,7 +4,7 @@ This project explores the classification of vertebral column conditions using a 
 
 ## Files
 - `data.txt` – Main dataset with biomechanical attributes
-- `CourseworkStats2_Tania.ipynb` – Python notebook with EDA and data preprocessing
+- `EDA_Dataprep.ipynb` – Python notebook with EDA and data preprocessing
 - `Unsupervised.ipynb` – Python notebook for unsupervised methods
 - `Supervised.ipynb` – Python notebook for supervised methods
 - `DATA70132_report.pdf` – Final project report including methodology, visualizations, and results
